@@ -1,4 +1,4 @@
-# mitch-www
+# mitchadam.github.io
 
 My personal website: https://mitchadam.com
 
