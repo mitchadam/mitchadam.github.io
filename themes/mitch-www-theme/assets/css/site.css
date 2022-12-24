@@ -1,6 +1,6 @@
 article p {
   @apply text-lg;
-  @apply my-4;
+  @apply mb-6;
 }
 
 article h1 {
@@ -11,15 +11,17 @@ article h1 {
 }
 
 article h2 {
-  @apply text-4xl;
+  @apply text-3xl;
   @apply mt-12;
+  @apply mb-4;
   @apply leading-none;
   @apply text-left;
 }
 
 article h3 {
-  @apply text-2xl;
+  @apply text-xl;
   @apply mt-6;
+  @apply mb-0;
   @apply font-semibold;
 }
 
