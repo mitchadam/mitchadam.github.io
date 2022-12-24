@@ -1,0 +1,27 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Mitch Adam"
+theme = "mitch-www-theme"
+enableRobotsTXT = true
+summaryLength = 10
+[author]
+  name = "Mitch Adam"
+  email = "hey@mitchadam.com"
+[permalinks]
+    blog = "/blog/:year/:title/"
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "manni"
+    tabWidth = 4
+  # Add this to make shortcodes render html correctly
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

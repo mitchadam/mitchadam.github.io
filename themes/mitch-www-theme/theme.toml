@@ -1,0 +1,8 @@
+name = "mitch-www-theme"
+description = "Theme for mitch-www blog"
+homepage = "www.mitchadam.com"
+min_version = "0.0.1"
+
+[author]
+  name = "Mitch Adam"
+  homepage = "www.mitchadam.com"
