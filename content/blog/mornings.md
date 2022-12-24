@@ -32,7 +32,7 @@ Even on laid-back days, the morning is still enjoyable. Reading, going for coffe
 
 ## Quote of the Week
 
-> Everything seems better in the morning - Mom
+> Everything seems better in the morning - **Mom**
 
 ## Favorite Things of The Week
 

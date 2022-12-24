@@ -45,7 +45,7 @@ Overall, this experience was a nice distraction from a series of unfortunate eve
 
 ## Quote of the Week
 
-> “My formula for greatness in a human being is *amor fati*: that one wants nothing to be different, not forward, not backward, not in all eternity. Not merely bear what is necessary, still less conceal it… but love it.” - Friedrich Nietzsche
+> “My formula for greatness in a human being is *amor fati*: that one wants nothing to be different, not forward, not backward, not in all eternity. Not merely bear what is necessary, still less conceal it… but love it.” - **Friedrich Nietzsche**
 
 ## Favorites of The Week
 

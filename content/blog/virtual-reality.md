@@ -40,7 +40,7 @@ They have had a few Oculus Pros on campus but I have not yet had a chance to dem
 
 ## Quote of the Week
 
-> If I got any cooler I would freeze to death - Kanye West
+> If I got any cooler I would freeze to death - **Kanye West**
 
 ## Favorite Things of The Week
 
