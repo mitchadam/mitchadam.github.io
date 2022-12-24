@@ -1,5 +1,5 @@
 ---
-title: "💻 Why you need to write a blog"
+title: "💻 Why You Need to Write a Blog"
 date: 2022-10-30
 draft: false
 ---
