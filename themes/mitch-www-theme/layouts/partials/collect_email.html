@@ -9,7 +9,7 @@
     background: #fff;
     clear: left;
     font: 14px Helvetica, Arial, sans-serif;
-    width: 600px;
+    max-width: 600px;
     margin: 20px auto;
     border: 2px rgb(137, 137, 137) solid;
     border-radius: 10px;
@@ -20,12 +20,16 @@
   #mc-embedded-subscribe {
     background-color: rgb(11, 129, 198) !important;
   }
-  .row {
-    display: flex;
-    flex-direction: row !important;
+
+  @media (min-width: 500px) {
+    .row {
+      display: flex;
+      flex-direction: row !important;
+    }
   }
+
   /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
   <form
