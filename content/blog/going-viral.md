@@ -10,7 +10,7 @@ This was my first experience having large numbers of strangers interacting and r
 
 This post is a debrief of my first time, my first time going viral that is. If requested I can write another post about my first time being laid…off. Anywho, I want to break down why this post received so much attention, and what I have learned from the experience. For context, here is the post:
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6996205115015651328" height="1037" width="504" frameborder="0" allowfullscreen="" title="Embedded post" style="margin: 0 auto"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6996205115015651328" height="1037" width="504" frameborder="0" allowfullscreen="" title="Embedded post" ></iframe>
 <br/><br/>
 
 ## Why the post went Viral

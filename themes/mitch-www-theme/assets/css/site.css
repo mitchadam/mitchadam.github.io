@@ -75,6 +75,19 @@ article li p {
   @apply my-2;
 }
 
+article .twitter-tweet {
+  margin: 0 auto;
+}
+
+article iframe {
+  margin: 0 auto;
+}
+
+article img {
+  max-width: 80%;
+  max-height: 500px;
+}
+
 blockquote {
   background: #f0f3f3;
   border-left: 10px solid #ccc;
