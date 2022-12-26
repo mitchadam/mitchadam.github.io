@@ -4,6 +4,8 @@ date: 2022-10-02
 draft: false
 ---
 
+---
+
 In my quest to enjoy life, I try and embody many aspects of stoic philosophy. Over the last few years, I have been introduced to stoicism through the works of Marcus Aurelius, Seneca, and Ryan Holiday. Reading these books I found many of the stoic principles resonated with me strongly.
 
 A stoic principle I think about often is the Dichotomy of Control. The Dichotomy of Control is understanding what is and what is not within our control. This principle emphasizes focusing only on what you are able to control, and simply accepting the things which are not. The reality is there are things that upset us but which we can do nothing about, such as a delayed flight. It is not worth putting energy into being upset and no amount of wishing will make the plane arrive any sooner. Instead, we should focus on the things we can control, like using the extra time before the flight in a productive manner. This is easier said than done but when I do embody this principle I find I am more at peace and enjoy life more.

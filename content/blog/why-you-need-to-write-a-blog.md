@@ -4,6 +4,8 @@ date: 2022-10-30
 draft: false
 ---
 
+---
+
 Every Sunday morning I head to my local coffee shop and write a blog post, and you should too. It doesn’t have to be Sunday morning over coffee (although I recommend this) but I believe everyone should write a blog. It is a great way to reflect, practice writing, and share with others.
 
 ### Reflection

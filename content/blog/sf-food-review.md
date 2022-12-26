@@ -4,6 +4,8 @@ date: 2022-11-08
 draft: false
 ---
 
+---
+
 Going out to eat is one of life’s great pleasures. Food and drinks have a way of bringing people together and creating connections. I enjoy going out for a nice meal, having a few drinks, and chatting with company.
 
 This weekend a friend came down to visit and we spent the weekend in San Francisco. We went on a culinary journey, trying out many different restaurants and cafes as we explored the city. This week I would like to channel my inner food blogger and provide an overview of all the eateries we sampled, along with my reviews.

@@ -4,6 +4,8 @@ date: 2022-12-23
 draft: false
 ---
 
+---
+
 ChatGPT is taking over the world. OpenAI released a new chatbot using their GPT large language model (LLM). LLMs are AI tools that can “understand” and respond to text input. ChatGPT has provided easy access to high-quality text-based AI. As a result, ChatGPT has been all the rage within the tech space.
 
 Twitter has been full of people sharing different use cases they have found for ChatGPT and some have been pretty amazing. From writing scripts, mimicking conversations between historical figures, and producing full-length essays ChatGPT appears to do it all. It almost feels like it can do it all a little too well…

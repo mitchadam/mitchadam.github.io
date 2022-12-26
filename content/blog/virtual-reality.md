@@ -4,6 +4,8 @@ date: 2022-10-16
 draft: false
 ---
 
+---
+
 Meta released their new virtual reality headset this week, the Quest Pro. Featuring some pretty interesting capabilities, such as eye tracking and mixed reality, the Quest Pro really shows off what may be possible with VR in the coming years. This model is a higher-end model targeted at businesses, rather than consumers. The consumer headset is the Quest 2, which has already been out for a couple of years. Meta plans to alternate releases of the consumer and business models every year, for the foreseeable future.
 
 Up to this point, VR experiences have been focused on gaming and entertainment. The Quest Pro is the first product that focuses on the productivity and work side of VR. I am much more interested in these aspects of VR. There are three areas that I believe could be significantly enhanced by VR.

@@ -4,6 +4,8 @@ date: 2022-10-09
 draft: false
 ---
 
+---
+
 I have always been a morning person. Not only do I like mornings, but I absolutely hate sleeping in. Sleeping in stresses me out even if I don’t have anything pressing to do. Even when I was younger this was the case.
 
 Before I fully understood how to read the time I remember my mom telling me that I needed to stay in bed longer. She explained that I needed to stay in bed until “this number was seven or bigger”. I would lay in bed staring at the digital clock in my room just waiting until the number magically hit seven, not understanding what that meant. I also remember telling my dad to ensure he “woke me up while it was still dark outside”. In the winter this was no problem, but when summer came around and the days became longer I remember getting upset with him because it was now light outside. He tried to explain that I was getting up at the same time, but that the sun was coming up at a different time. I thought he was pulling my leg.

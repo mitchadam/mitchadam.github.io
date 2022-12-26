@@ -4,6 +4,8 @@ date: 2022-11-24
 draft: false
 ---
 
+---
+
 Are you using technology correctly? I recently updated my digital productivity stack. I consolidated the software products I us and made it clear what each product should be used for. This has allowed me to be more effective, more organized, and less stressed. Here is my guide to the ultimate digital productivity system.
 
 The system resolves around a single thesis: **Write everything down.** Literally everything. Whether as a to-do list item, calendar event, or stream of conscious notes, transfer everything from your brain into zeros and ones. Our brains are best at creative thinking and problem solving, not remembering. Writing things down frees your brain to do what it is most effective at, think.

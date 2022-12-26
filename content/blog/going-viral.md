@@ -4,6 +4,8 @@ date: 2022-11-16
 draft: false
 ---
 
+---
+
 I went viral. This week I experienced my first taste of internet fame. My post about being laid off from Meta got a bit of attention, **~five million** views worth of attention to be precise. While this is not necessarily the context I would have chosen to go viral in, the experience was an interesting one.
 
 This was my first experience having large numbers of strangers interacting and responding to me via the internet. While it wasn’t five million unique people that viewed the post, it definitely was in the hundreds of thousands and maybe even a million. This seems like a big number, but when you put it into more concrete terms it seems really really big. The capacity of Common Wealth stadium is 60 000 people. Now imagine 10 to 20 times this. That is a lot of people. I feel that I have now been exposed to the powers of the internet. My internet virginity has been taken from me.
