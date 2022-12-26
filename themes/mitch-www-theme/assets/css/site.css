@@ -133,3 +133,17 @@ div.begin-task-list + ul {
   list-style: none;
   margin-left: -1em;
 }
+
+hr {
+  @apply mt-2;
+  @apply mb-4;
+}
+
+main a {
+  @apply text-blue-600;
+  @apply underline;
+}
+
+main a:hover {
+  @apply text-blue-800;
+}

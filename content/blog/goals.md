@@ -46,6 +46,8 @@ Everyone knows that public shame is one of the best motivators, so I am going to
 
 ## Personal Goals
 
+---
+
 ### Stay Active
 
 When I am active I feel better, and everything else in my life benefits. While I am here, **I want to ensure that being active is a key part of my routine.** While I plan on continuing to go to the gym and cycling, this is also a great time to try something new. After I am settled, I would like to join a Crossfit gym or a triathlon club. This doubles as a way to meet people.
@@ -79,6 +81,8 @@ Being in a new place also means the opportunity to meet new people. While I know
 **Crushed It:** Be the cause of organizing six events in the next year, and be a connector.
 
 ## Career Goals
+
+---
 
 ### Promotion to Software Engineer II
 
