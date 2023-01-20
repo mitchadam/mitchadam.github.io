@@ -30,7 +30,6 @@ Thank you to everyone who takes the time to read these, especially those who res
 
 Looking forward to the next 50!
 
-<br/><br/>
 -- Mitch
 
 ## Quote of the Week
