@@ -1,5 +1,5 @@
 ---
-title: "📈 Post #50"
+title: "📈 Post 50"
 date: 2023-01-20
 draft: false
 ---
