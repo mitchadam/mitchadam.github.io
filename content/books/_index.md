@@ -8,27 +8,26 @@ draft: false
 
 ---
 
-<p>See what I have been reading.</p>
+See what I have been reading.
 </br></br>
-
 <a
-href="https://www.goodreads.com/book/show/27036528-ego-is-the-enemy"
-target="blank"
-class="text-black no-underline">
+    href="https://www.goodreads.com/book/show/27036528-ego-is-the-enemy"
+    target="blank"
+    class="text-black no-underline">
 
 <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
 <div class="flex flex-row justify-start content-start text-black no-underline p-4">
 <img
-                    class="book-thumbnail m-4"
-                    src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459114043l/27036528._SX98_.jpg"
-                    loading="lazy"
-                />
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459114043l/27036528._SX98_.jpg"
+                loading="lazy"
+            />
 <div class="book-details w-full">
 <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
 <span
-                    class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
-                    >January 19, 2023</span
-                    >
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >January 19, 2023</span
+                >
 Ego Is the Enemy - Ryan Holiday
 <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
 </h3>
@@ -37,12 +36,10 @@ Ego Is the Enemy - Ryan Holiday
 </div>
 </div>
 </a>
-
 <a
     href="https://www.goodreads.com/book/show/40718726-genghis-khan-and-the-making-of-the-modern-world"
     target="blank"
     class="text-black no-underline">
-
 <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
 <div class="flex flex-row justify-start content-start text-black no-underline p-4">
 <img
