@@ -137,6 +137,9 @@ div.begin-task-list + ul {
 hr {
   @apply mt-2;
   @apply mb-4;
+  height: 1px;
+  width: 100%;
+  background-color: #e2e8f0;
 }
 
 main a {
