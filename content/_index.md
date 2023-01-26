@@ -6,4 +6,4 @@ draft: false
 
 <img src="/circleheadshot.png" alt="Picture of Mitch" class="mx-auto w-48 sm:w-64 mb-6"/>
 
-Hi, I am Mitch. Check out my [blog](/blog).
+Hi, I am Mitch. Check out my [blog](/blog) and what I am [reading](/reading).
