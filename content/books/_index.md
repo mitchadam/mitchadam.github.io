@@ -41,6 +41,7 @@ Ego Is the Enemy - Ryan Holiday
     href="https://www.goodreads.com/book/show/40718726-genghis-khan-and-the-making-of-the-modern-world"
     target="blank"
     class="text-black no-underline">
+
 <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
 <div class="flex flex-row justify-start content-start text-black no-underline p-4">
 <img
