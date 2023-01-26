@@ -15,6 +15,7 @@ See what I have been reading.
     href="https://www.goodreads.com/book/show/27036528-ego-is-the-enemy"
     target="blank"
     class="text-black no-underline">
+
 <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
 <div class="flex flex-row justify-start content-start text-black no-underline p-4">
 <img
