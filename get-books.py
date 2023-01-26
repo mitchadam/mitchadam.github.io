@@ -39,6 +39,7 @@ def main():
 
         for book in books:
             html = f'''
+<div>
 <a
     href="{book["book"]["link"]}"
     target="blank"
@@ -63,7 +64,7 @@ def main():
             </div>
         </div>
     </div>
-</a>'''
+</a></div>'''
             file.write(html)
 
 
