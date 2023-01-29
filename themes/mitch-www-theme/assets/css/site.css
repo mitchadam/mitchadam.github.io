@@ -1,3 +1,6 @@
+/* Green color and shades: */
+/* https://coolors.co/c84630-d4a0a7-e3e3e3-898989-4a8259 */
+
 article p {
   @apply text-lg;
   @apply mb-6;
@@ -143,15 +146,25 @@ hr {
 }
 
 main a {
-  @apply text-blue-600;
+  /* @apply text-blue-600; */
   @apply underline;
+  color: #4A8259;
 }
 
 main a:hover {
-  @apply text-blue-800;
+  /* @apply text-blue-800; */
+  color: #3C6847;
 }
 
 /* Book List */
 .book-thumbnail {
   max-height: 200px;
+}
+
+.headerlink {
+  background-color: #4A8259 !important;
+}
+
+.navbar li:hover {
+  color: #4A8259;
 }
