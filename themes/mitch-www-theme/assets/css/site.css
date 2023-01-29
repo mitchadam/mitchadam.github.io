@@ -168,3 +168,22 @@ main a:hover {
 .navbar li:hover {
   color: #4A8259;
 }
+
+@media only screen and (max-width: 600px) {
+  .book-thumbnail {
+    max-height: 100px;
+    border: solid 10;
+  }
+
+  .book-container h3 {
+    font-size: 0.8rem;
+  }
+
+  .book-container div {
+    font-size: 0.7rem;
+  }
+
+  .book-review p {
+    font-size: 0.7rem;
+  }
+}
