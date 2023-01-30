@@ -16,11 +16,11 @@ Always bias towards action. Nothing gets done without action. Favour action by 1
 
 ## Mindfulness. Acceptance. Gratitude.
 
-First, cultivate mindfulness. Mindfulness allows you become aware of your thoughts and break out of your inner monologue. Next practice acceptance. Acceptance is the willingness to experience thoughts and feelings without struggling against them. This shifts the power to you. Finally, be grateful. When you are grateful there is no room in your mind for negative emotions.
+First, cultivate mindfulness. Mindfulness allows you to become aware of your thoughts and break out of your inner monologue. Next practice acceptance. Acceptance is the willingness to experience thoughts and feelings without struggling against them. This shifts the power to you. Finally, be grateful. When you are grateful there is no room in your mind for negative emotions.
 
 ## Happiness is a choice.
 
-Happiness is a choice, this is the cheat code to life. Events are neither positive or negative, it is your judgement which attaches sentiment. Realize that you can choose your judgment and how you feel. Once you realize this choose to be happy. Being unhappy only takes away from the quality of your life, it does not make anything else better.
+Happiness is a choice, this is the cheat code to life. Events are neither positive nor negative, it is your judgement which attaches sentiment. Realize that you can choose your judgment and how you feel. Once you realize this choose to be happy. Being unhappy only takes away from the quality of your life, it does not make anything else better.
 
 ## Consistently good, occasionally great.
 
@@ -32,15 +32,15 @@ Everyday. There are no excuses. You will always feel better, think better and be
 
 ## Easy choices, hard life. Hard choices, easy life.
 
-The hard choice is the right choice. Choosing the easy path will only prolong the suffering. Focus on making the hard choice, begin by always telling the truth, especially to yourself.
+The hard choice is the right choice. Choosing the easy path will only prolong the suffering. Focus on making the hard choice, and begin by always telling the truth, especially to yourself.
 
 ## Live in the present.
 
-We suffer more in imagination that reality. Most of our suffering comes from our mind thinking about the past or the future. The present is never as bad as we imagine it to be. Reduce suffering and live in the present.
+We suffer more in imagination than in reality. Most suffering comes from our mind thinking about the past or the future. The present is never as bad as we imagine it to be. Reduce suffering and live in the present.
 
 ## Focus on systems.
 
-Create systems to set yourself up for success. Systems allow you to separate planning from doing, worrying from executing. This reduces repeated mental overhead. When you focus on systems you focus on the process, rather than the goal. But knowing the system is running you can be satisfied you are progressing towards the goal. Use trackable metrics to build confidence in the system.
+Create systems to set yourself up for success. Systems allow you to separate planning from doing, and worrying from executing. This reduces repeated mental overhead. When you focus on systems you focus on the process, rather than the goal. But knowing the system is running you can be satisfied you are progressing towards the goal. Use trackable metrics to build confidence in the system.
 
 ## Learn.
 
