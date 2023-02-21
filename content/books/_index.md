@@ -13,6 +13,58 @@ See what I have been reading.
 
 <div>
 <a
+    href="https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401432508l/4099._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >February 20, 2023</span
+                >
+                The Pragmatic Programmer: From Journeyman to Master - Andy Hunt
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/10631.Sam_Walton"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463939506l/10631._SY160_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >February 18, 2023</span
+                >
+                Sam Walton: Made In America - Sam Walton
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
     href="https://www.goodreads.com/book/show/33313.Kitchen_Confidential"
     target="blank"
     class="text-black no-underline">
