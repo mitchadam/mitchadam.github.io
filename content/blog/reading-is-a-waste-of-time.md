@@ -8,15 +8,15 @@ draft: false
 
 Reading is a waste of time. Many tout reading as the key to knowledge and success, but is it really? Is reading the most effective way to learn? Perhaps not.
 
-You may be disagreeing with me, or feeling defensive, “Surely all that time spent reading could not have been a waste of time”. Let me clarify; I don’t think all reading is a waste of time. Not all reading is a waste of time because not all books are created equal. There are good and bad books. Many books could have been a blog post but are instead stuffed with filler. Other books are densely filled with valuable content and reading them provides tremendous benefit.
+You may disagree with me or feel defensive, “Surely all that time spent reading could not have been a waste of time”. Let me clarify; I don’t think all reading is a waste of time. Not all reading is a waste of time because not all books are created equal. There are good and bad books. Many books could have been blog posts but are instead stuffed with filler. Other books are densely filled with valuable content and reading them provides tremendous benefit.
 
-The issue is reading both of these types of books is, well, reading. Reading gives you a sense of being productive. Reading promises to teach you things that will pay dividends in the future. However, depending what you read this may or may not be the case. This means even though reading gives you a sense of being productive, you may not actually be productive.
+The issue is reading both of these types of books is, well, reading. Reading gives you a sense of being productive. Reading promises to teach you things that will pay dividends in the future. However, depending on what you read this may or may not be the case. This means even though reading gives you a sense of being productive, you may not actually be productive.
 
 This is where things get dangerous. Because reading feels productive, it may stop you from doing the actual thing. Reading an investment book feels like you are improving your financial situation, but if you don’t actually use what you learn to invest it isn’t doing anything. Now, there are definitely investment books worth reading, but there are also ones not worth reading. Is reading that fourth investment book really going to make any difference when we all know you should just put it in the index anyways?
 
 This is why reading can be a waste of time because it can be used as a substitute for actually doing the thing. Even worse it feels like you are doing the thing. At least when you watch Netflix, you know you are not being productive. This lulls people into a state of inaction because it makes us feel like we are doing more than we actually are.
 
-Now there are many valuable books out there and I am not saying don’t read at all. I love reading. But I am saying that not all reading is worthwhile. We would all agree that not all books are worth reading, so this makes sense. What then is the solution?
+Now there are many valuable books out there and I am not saying don’t read at all. I love reading. But I am saying that not all reading is worthwhile. We agree that not all books are worth reading, so this makes sense. What then is the solution?
 
 I think the solution to this is the “Exploration & Exploitation” model of reading. Explore many books at a shallow level, and exploit the books worth reading at a deep level. This means skimming books, listening to audiobooks at increased speeds, or only reading parts of books. Once you find a book that resonates with you, go all in on it. Read it deeply and take notes. Reread the book multiple times. Teach the contents of the books to others. This means the concepts worth embodying will stick with you and won’t be lost in the sea of endless content.
 
