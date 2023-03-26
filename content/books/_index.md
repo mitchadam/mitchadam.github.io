@@ -13,6 +13,32 @@ See what I have been reading.
 
 <div>
 <a
+    href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360564614l/13525945._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >March 26, 2023</span
+                >
+                So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love - Cal Newport
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
     href="https://www.goodreads.com/book/show/29579.Foundation"
     target="blank"
     class="text-black no-underline">
@@ -1641,7 +1667,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >January 15, 2021</span
                 >
-                When Breath Becomes Air - Paul Kalanithi
+                When Breath Becomes Air - Abraham Verghese
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
