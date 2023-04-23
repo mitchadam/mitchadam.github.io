@@ -13,6 +13,58 @@ See what I have been reading.
 
 <div>
 <a
+    href="https://www.goodreads.com/book/show/29581.Foundation_and_Empire"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >April 22, 2023</span
+                >
+                Foundation and Empire (Foundation, #2) - Isaac Asimov
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/55148500-the-almanack-of-naval-ravikant"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >April 22, 2023</span
+                >
+                The Almanack of Naval Ravikant: A Guide to Wealth and Happiness - Eric Jorgenson
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
     href="https://www.goodreads.com/book/show/13525945-so-good-they-can-t-ignore-you"
     target="blank"
     class="text-black no-underline">
@@ -221,7 +273,7 @@ See what I have been reading.
 </a></div>
 <div>
 <a
-    href="https://www.goodreads.com/book/show/1837402.How_to_Get_Rich"
+    href="https://www.goodreads.com/book/show/1837402.How_To_Get_Rich"
     target="blank"
     class="text-black no-underline">
     <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
@@ -237,7 +289,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >January 30, 2023</span
                 >
-                How to Get Rich - Felix Dennis
+                How To Get Rich - Felix Dennis
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1121,7 +1173,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >October 07, 2021</span
                 >
-                The Theory of Poker - David Sklansky
+                The Theory of Poker: A Professional Poker Player Teaches You How To Think Like One - David Sklansky
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1225,7 +1277,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >August 09, 2021</span
                 >
-                The Three-Body Problem (Remembrance of Earth’s Past, #1) - Liu Cixin
+                The Three-Body Problem (Remembrance of Earth’s Past, #1) - Cixin Liu
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1407,7 +1459,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >April 08, 2021</span
                 >
-                Amusing Ourselves to Death: Public Discourse in the Age of Show Business - Andrew Postman
+                Amusing Ourselves to Death: Public Discourse in the Age of Show Business - Neil Postman
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1667,7 +1719,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >January 15, 2021</span
                 >
-                When Breath Becomes Air - Abraham Verghese
+                When Breath Becomes Air - Paul Kalanithi
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -2353,7 +2405,7 @@ See what I have been reading.
 </a></div>
 <div>
 <a
-    href="https://www.goodreads.com/book/show/142109.The_ABC_s_of_Real_Estate_Investing"
+    href="https://www.goodreads.com/book/show/142109.Rich_Dad_s_Advisors_"
     target="blank"
     class="text-black no-underline">
     <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
@@ -2369,7 +2421,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >March 30, 2020</span
                 >
-                The ABC's of Real Estate Investing: The Secrets of Finding Hidden Profits Most Investors Miss - Ken McElroy
+                Rich Dad's Advisors®: The ABC's of Real Estate Investing: The Secrets of Finding Hidden Profits Most Investors Miss - Ken McElroy
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">A lot of what is in this book is common sense, but I think it is valuable to have it written down. I would say that it is a good intro to real estate but would be better suited when one is in the process of acquiring property rather than as a casual read. Disclaimer: I have no real estate experience.</p></span>
@@ -2811,7 +2863,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >February 01, 2019</span
                 >
-                MONEY Master the Game: 7 Simple Steps to Financial Freedom - Anthony Robbins
+                MONEY Master the Game: 7 Simple Steps to Financial Freedom - Tony Robbins
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">After reading ‘Unshakeable’ I decided to read Tony Robbins extensive financial guide. This much longer (~600 pages) book goes into detail about many of the principles discussed in ‘Unshakeable’. I felt that this was a valuable read for someone such as myself just starting their financial journey. It provided a good starting point on many of the key steps for developing financial success. The path to financial success is not a get rich quick scheme, but instead a lifetime of smart financial decisions However, I did have a few contentions with the book. First I felt that the book was much too long and many parts could be skimmed over. Additionally, unrealistic numbers were often used, glorifying the amount of money people could make following these strategies (not that they are poor strategies but the numbers get peoples hopes up). And while I was able to take away many of the key overarching principles, one cannot obviously not expect to come away as an expert, or anything close to one.<br /><br />Favourite Quote: “Remember: we’re drowning in information, but we’re starving for wisdom.”</p></span>
