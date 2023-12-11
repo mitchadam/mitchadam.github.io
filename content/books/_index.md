@@ -13,6 +13,188 @@ See what I have been reading.
 
 <div>
 <a
+    href="https://www.goodreads.com/book/show/13079982-fahrenheit-451"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383718290l/13079982._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >December 10, 2023</span
+                >
+                Fahrenheit 451 - Ray Bradbury
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/40409969-medium-raw"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528321636l/40409969._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >December 10, 2023</span
+                >
+                Medium Raw: A Bloody Valentine to the World of Food and the People Who Cook - Anthony Bourdain
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/41804.I_Robot"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609035271l/41804._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >November 15, 2023</span
+                >
+                I, Robot (Robot, #0.1) - Isaac Asimov
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/122765395-elon-musk"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692288251l/122765395._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >November 02, 2023</span
+                >
+                Elon Musk - Walter Isaacson
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/900.The_Game"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410129471l/900._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >October 12, 2023</span
+                >
+                The Game: Penetrating the Secret Society of Pickup Artists - Neil Strauss
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/52036.Siddhartha"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629378189l/52036._SY160_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >October 12, 2023</span
+                >
+                Siddhartha - Hermann Hesse
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/25066990-living-with-a-seal"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438693370l/25066990._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >October 12, 2023</span
+                >
+                Living with a SEAL: 31 Days Training with the Toughest Man on the Planet - Jesse Itzler
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
     href="https://www.goodreads.com/book/show/45776.Feynman_s_Rainbow"
     target="blank"
     class="text-black no-underline">
@@ -393,7 +575,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >March 18, 2023</span
                 >
-                $100M Offers: How To Make Offers So Good People Feel Stupid Saying No (Acquisition.com $100M Series Book 1) - Alex Hormozi
+                $100M Offers: How To Make Offers So Good People Feel Stupid Saying No - Alex Hormozi
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1303,7 +1485,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >November 12, 2021</span
                 >
-                A Game of Thrones - George R.R. Martin
+                A Game of Thrones (A Song of Ice and Fire, #1) - George R.R. Martin
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -2107,7 +2289,7 @@ See what I have been reading.
                 <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
                 <span
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
-                >October 02, 2022</span
+                >December 02, 2020</span
                 >
                 Factotum - Charles Bukowski
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
@@ -2393,7 +2575,7 @@ See what I have been reading.
                 <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
                 <span
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
-                ></span
+                >June 05, 2020</span
                 >
                 Steve Jobs - Walter Isaacson
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
@@ -2471,7 +2653,7 @@ See what I have been reading.
                 <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
                 <span
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
-                ></span
+                >April 27, 2020</span
                 >
                 Animal Farm - George Orwell
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
@@ -2653,7 +2835,7 @@ See what I have been reading.
                 <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
                 <span
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
-                >March 30, 2020</span
+                >February 15, 2020</span
                 >
                 The Abc's Of Real Estate Investing: The Secrets Of Finding Hidden Profits Most Investors Miss - Ken McElroy
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
@@ -2889,7 +3071,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >April 01, 2019</span
                 >
-                Flow: The Psychology of Optimal Experience - Mihaly Csikszentmihalyi
+                Flow: The Psychology of Optimal Experience - Mihály Csíkszentmihályi
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -3097,7 +3279,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >February 01, 2019</span
                 >
-                MONEY Master the Game: 7 Simple Steps to Financial Freedom - Tony Robbins
+                MONEY Master the Game: 7 Simple Steps to Financial Freedom (Tony Robbins Financial Freedom Series) - Tony Robbins
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">After reading ‘Unshakeable’ I decided to read Tony Robbins extensive financial guide. This much longer (~600 pages) book goes into detail about many of the principles discussed in ‘Unshakeable’. I felt that this was a valuable read for someone such as myself just starting their financial journey. It provided a good starting point on many of the key steps for developing financial success. The path to financial success is not a get rich quick scheme, but instead a lifetime of smart financial decisions However, I did have a few contentions with the book. First I felt that the book was much too long and many parts could be skimmed over. Additionally, unrealistic numbers were often used, glorifying the amount of money people could make following these strategies (not that they are poor strategies but the numbers get peoples hopes up). And while I was able to take away many of the key overarching principles, one cannot obviously not expect to come away as an expert, or anything close to one.<br /><br />Favourite Quote: “Remember: we’re drowning in information, but we’re starving for wisdom.”</p></span>
@@ -3251,7 +3433,7 @@ See what I have been reading.
                 <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
                 <span
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
-                ></span
+                >October 01, 2018</span
                 >
                 The Paleo Manifesto: Ancient Wisdom for Lifelong Health - John  Durant
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
@@ -3459,7 +3641,7 @@ See what I have been reading.
                 <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
                 <span
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
-                ></span
+                >October 30, 2017</span
                 >
                 The Cellist of Sarajevo - Steven Galloway
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
@@ -3485,10 +3667,36 @@ See what I have been reading.
                 <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
                 <span
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
-                >June 15, 2020</span
+                >January 02, 2017</span
                 >
                 The Hobbit (The Lord of the Rings, #0) - J.R.R. Tolkien
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/363482.Advanced_Marathoning"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                ></span
+                >
+                Advanced Marathoning - Pete Pfitzinger
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
             </div>
