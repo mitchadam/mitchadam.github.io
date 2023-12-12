@@ -27,7 +27,7 @@ The entire process comes to a peak on race day. It is a day you have earned the 
 ![Picture crossing finish line.](/ironman/finishbrighter.jpg)
 
 <div class="centered">
-    Crossing the finish line.
+    Crossing the finish line. Official time: 9:39:11
 </div>
 
 <br>
