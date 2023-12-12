@@ -1,7 +1,7 @@
 ---
 title: "🤖 Ironman California Race Report"
-date: 2023-12-10
-draft: true
+date: 2023-12-11
+draft: false
 ---
 
 ---
@@ -46,7 +46,11 @@ The final training block (four weeks prior to the race) decreased in volume and 
 
 I got sick in the week leading up to the race. I think it was just my bod feeling like it could finally chill a bit. This meant I basically did no workouts in the five days leading up to the race, my only goal was to get over my illness.
 
-My primary recovery methods in race week, and during training, were stretching, rolling, and using a massage gun. Recovery is pretty much a part-time job during training. I had my recovery routine dialed in and aimed for three 30-minute sessions a week. Three lesser-known techniques that I would recommend are: rolling out your feet with a golf ball, doing a couch/wall hip flexor stretch, and rolling out the muscles right along your spine (give yourself a tight hug and roll up your upper back, this is good for reducing back pain on the bike).
+My primary recovery methods in race week, and during training, were stretching, rolling, and using a massage gun. Recovery is pretty much a part-time job during training. I had my recovery routine dialed in and aimed for three 30-minute sessions a week. Three lesser-known techniques that I would recommend are:
+
+- Rolling out your feet with a golf ball
+- Couch/wall hip flexor stretch
+- Rolling out the muscles right along your spine (Give yourself a tight hug and roll up your upper back, this is good for reducing back pain on the bike).
 
 ### Carb loading
 
@@ -112,13 +116,19 @@ A flat course also means a lot of time spent in aero position. Most of the ridin
 
 My motto for the bike was "Steady". I wanted to avoid big surges that would cause me to burn energy that I would later regret during the run. Instead, I focused on maintaining a steady speed and keeping my cadence up to avoid excessively tiring my legs.
 
-The advantage of a two-loop course is that you can familiarize yourself with the course on the first loop and then ride strategically on the second loop. There were two long straight sections with smooth pavement, which were ideal for riding in an aero position and pushing hard. However, there were also two windier sections, one of which had horrible pavement. During these sections, I would sit up to allow my back to relax and my heart rate to come down. This approach helped me avoid any major back issues and allowed me to maintain an aero position for the majority of the race.
+The advantage of a two-loop course is that you can familiarize yourself with the course on the first loop and then ride strategically on the second loop. There were two long straight sections with smooth pavement, which were ideal for riding in an aero position and pushing hard. However, there were also two winding sections, one of which had horrible pavement. During these sections, I would sit up to allow my back to relax and my heart rate to come down. This approach helped me avoid any major back issues and allowed me to maintain an aero position for the majority of the race.
 
 There was a slight headwind on the way out and a slight tailwind on the way back.The slight tailwind on the way back was when you could really fly. In these sections I focused on being tightly in aero position and was able to average just under 40km/h for long stretches. .
 
 The weather that day was forecasted to be overcast and a bit of rain. As someone who struggles in the heat this was music to my ears. I would much prefer rain to the scorching 32C weather Sacramento had early in the week. However, I was not prepared for the torrential monsoon that occurred. With 20km left on the bike it absolutely poured. I was worried they were going to cancel the race. Luckily I only had 20km left and focused on playing it safe. The last thing I wanted was to wipe out so close to the end.
 
 The bike, for a 180km ride, went by relatively quickly. There was a lot to be thinking about: making sure I was eating enough, monitoring my speed/cadence and sharing the road with the other rides. My goal was to do the bike between 5:30 - 6, but I ended up doing it in 5:10! I had felt good, but was slightly worried that I went too fast and would pay for it on the run.
+
+![It was raining hard at the start of the run.](/ironman/bike.jpg)
+
+<div class="centered">
+   On the bike.
+</div>
 
 ### Bike Nutrition
 
@@ -173,7 +183,14 @@ Immediately after leaving the aid station, I felt renewed. The wall was held at 
 
 Starting at the 23rd kilometre, I walked through all the aid stations. The combination of walking, caffeine, and sugar provided me with an energy boost after each station, which gradually declined until I reached the next one. Mentally, just focusing on reaching the next aid station made things a little bit easier.
 
+![It was raining hard at the start of the run.](/ironman/midrun.jpg)
+
+<div class="centered">
+   Around the half way mark, note the stain of Coke on my chin.
+</div>
+<br>
 During the first part of the run, my main focus was reaching the 32-kilometre mark in one piece and then holding on for dear life during the last 10 kilometres. Around kilometre 34 or 35, we left the two-lap course and began the run towards downtown Sacramento. This turn gave me a significant boost as I knew I was on the home stretch. All I needed to do was to hold on. With fewer runners and fans in this section, it became a mental battle.
+<br><br>s
 
 At this point in the race, the mental effects of being intensely focused for nine plus hours were beginning to take effect. I distinctly remember thinking, "Wow, there is really not much going on in my head right now. I am having no thoughts." As someone who usually has an incessant inner monologue, this was a unique sensation.
 
@@ -261,9 +278,9 @@ In the future, I hope to train for other events like this (I already am) and I h
 
 I am someone who needs to fuel properly. Not fuelling properly means I don’t have that extra push in my workouts, often feel sick, and end up not having fun. This is especially true for big workouts. I also want to make sure that I show up to the key workouts ready to perform so that I can maximize the training benefit.
 
-Throughout the build, I increased to 4 meals a day. On Friday and Saturday nights, I would make sure to eat a big meal to fuel me for the long weekend sessions. My go-to splurge meal was an extra-large Domino's pizza. There were many Saturdays where thinking about the pizza I was going to have for dinner got me through the workout. I tightened up my diet and stopped taking creatine in the weeks leading up to the race to get my weight down to under 170 lbs for maximum speed.
+Throughout the build, I increased to 4 meals a day. On Friday and Saturday nights, I would make sure to eat a big meal to fuel me for the long weekend sessions. My go-to splurge meal was an extra-large Domino's pizza. There were many Saturdays where thinking about the pizza I was going to have for dinner got me through the workout. I tightened up my diet and stopped taking creatine in the weeks leading up to the race to get my weight down to under 170 for the race.
 
-During my workouts, I used Gu gels and Fig Bars as my fuel source (before I started using the carb powders to prepare for race nutrition). I would usually only consume something if the workout was longer than 1-1.5 hours. I generally did not consume any caffeine during training so that I could get the most out of it on race day. I did consume a caffeinated gel before my Wednesday interval running sessions, since I did them in the morning and they were generally tough.
+During my workouts, I used Gu gels and Fig Bars as my fuel source (before I started using the carb powders to prepare for race nutrition). I would usually only consume something if the workout was longer than 1-1.5 hours. I generally did not consume any caffeine during training so that I could get the most out of it on race day. I did consume a caffeinated gel before my Wednesday interval running sessions, since I did them in the morning and they were tough.
 
 ## Gear
 
@@ -332,3 +349,7 @@ It took me a while, but I was decently satisfied with the level that my self-coa
 ### Swim Headphones
 
 It took me a long time to learn to love swimming, and I still wouldn't say I love it. Part of the issue is that the pool I swam in was more of a geriatric float pool. While there's nothing wrong with that, it just isn't the most motivating environment. The environment, coupled with the monotony of staring at the blue line at the bottom of the pool, did not make it the most exciting of activities. I would buy some inexpensive swimming headphones so that I could at least listen to music or podcasts to break up the monotony.
+
+## Closing Thoughts
+
+Hats off to anyone who has made it this far. I wanted to document my Ironman journey for my future self and for any others who are embarking on, or considering, their own Ironman journey. Subscribe to my (sadly infrequent) newsletter below to hear about my future endeavors!
