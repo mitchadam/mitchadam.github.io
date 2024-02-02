@@ -1,3 +1,4 @@
+
 ---
 title: "Books"
 date: 2022-12-23T00:00:00-07:00
@@ -11,6 +12,136 @@ draft: false
 See what I have been reading.
 </br></br>
 
+<div>
+<a
+    href="https://www.goodreads.com/book/show/12633800-models"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375568311l/12633800._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >February 01, 2024</span
+                >
+                Models: Attract Women Through Honesty - Mark Manson
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/42287.The_Perfect_Mile"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >January 25, 2024</span
+                >
+                The Perfect Mile: Three Athletes, One Goal, and Less Than Four Minutes to Achieve It - Neal Bascomb
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/52181741-die-with-zero"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >January 25, 2024</span
+                >
+                Die with Zero: Getting All You Can from Your Money and Your Life - Bill Perkins
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/27064345-the-mandibles"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461532661l/27064345._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >December 26, 2023</span
+                >
+                The Mandibles: A Family, 2029–2047 - Lionel Shriver
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/61714633-the-wager"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659407155l/61714633._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >December 26, 2023</span
+                >
+                The Wager: A Tale of Shipwreck, Mutiny and Murder - David Grann
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
 <div>
 <a
     href="https://www.goodreads.com/book/show/13079982-fahrenheit-451"
@@ -56,7 +187,7 @@ See what I have been reading.
                 >December 10, 2023</span
                 >
                 Medium Raw: A Bloody Valentine to the World of Food and the People Who Cook - Anthony Bourdain
-                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
             </div>
@@ -264,7 +395,7 @@ See what I have been reading.
                 >July 16, 2023</span
                 >
                 Chip War: The Fight for the World's Most Critical Technology - Chris   Miller
-                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
             </div>
@@ -575,7 +706,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >March 18, 2023</span
                 >
-                $100M Offers: How To Make Offers So Good People Feel Stupid Saying No - Alex Hormozi
+                $100M Offers: How To Make Offers So Good People Feel Stupid Saying No (Acquisition.com $100M Series Book 1) - Alex Hormozi
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1788,7 +1919,7 @@ See what I have been reading.
         <div class="flex flex-row justify-start content-start text-black no-underline p-4">
             <img
                 class="book-thumbnail m-4"
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394204569l/7745._SX98_.jpg"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703312483l/7745._SX98_.jpg"
                 loading="lazy"
             />
             <div class="book-details w-full">
@@ -2811,7 +2942,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >March 04, 2020</span
                 >
-                The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1) - Douglas Adams
+                The Hitchhiker’s Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1) - Douglas Adams
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">I have always heard people talk about how much they love this book, and I agree; The book is a fun and easy read. I wouldn't say it is one of my favourite fiction novels, but if ya got time go for it.</p></span>
@@ -2993,7 +3124,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >September 01, 2019</span
                 >
-                Man's Search for Meaning - Viktor E. Frankl
+                Man’s Search for Meaning - Viktor E. Frankl
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">This has been my favourite book of the year thus far! A truly impactful read. The brutality described by Viktor Frankl during his time in the concentration camps is incomprehensible. However, I feel this opens the reader up to truly appreciate Frankl's message and his belief in a meaning based life. I folded the corner of nearly every page over as there was always a thought or idea I wanted to come back to and reflect on. This is a book I would recommend should be on the top of everyone's must read.<br /><br />Favourite Quote: “Ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is asked. In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible.”</p></span>
@@ -3452,7 +3583,7 @@ See what I have been reading.
         <div class="flex flex-row justify-start content-start text-black no-underline p-4">
             <img
                 class="book-thumbnail m-4"
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1595674533l/23692271._SX98_.jpg"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703329310l/23692271._SX98_.jpg"
                 loading="lazy"
             />
             <div class="book-details w-full">
