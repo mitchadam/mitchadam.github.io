@@ -1,3 +1,4 @@
+
 ---
 title: "Books"
 date: 2022-12-23T00:00:00-07:00
@@ -11,6 +12,188 @@ draft: false
 See what I have been reading.
 </br></br>
 
+<div>
+<a
+    href="https://www.goodreads.com/book/show/124941268-same-as-ever"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685350462l/124941268._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >June 15, 2024</span
+                >
+                Same as Ever: A Guide to What Never Changes - Morgan Housel
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/188531510-marcus-aurelius"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696996153l/188531510._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >June 15, 2024</span
+                >
+                Marcus Aurelius: The Stoic Emperor - Donald J. Robertson
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY160_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >June 03, 2024</span
+                >
+                Do Androids Dream of Electric Sheep? - Philip K. Dick
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/193388249-killers-of-the-flower-moon"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696884539l/193388249._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >May 25, 2024</span
+                >
+                Killers of the Flower Moon: The Osage Murders and the Birth of the FBI - David Grann
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/10293025-relentless-forward-progress"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328698534l/10293025._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >April 28, 2024</span
+                >
+                Relentless Forward Progress: A Guide to Running Ultramarathons - Bryon Powell
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/54493401-project-hail-mary"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597695864l/54493401._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >April 28, 2024</span
+                >
+                Project Hail Mary - Andy Weir
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/12158480-why-nations-fail"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >April 27, 2024</span
+                >
+                Why Nations Fail: The Origins of Power, Prosperity, and Poverty - Daron Acemoğlu
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
 <div>
 <a
     href="https://www.goodreads.com/book/show/433567.Flatland"
@@ -2213,7 +2396,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >April 08, 2021</span
                 >
-                Into Thin Air: A Personal Account of the Mount Everest Disaster - Jon Krakauer
+                Into Thin Air: A Personal Account of the Mt. Everest Disaster - Jon Krakauer
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -2854,7 +3037,7 @@ See what I have been reading.
         <div class="flex flex-row justify-start content-start text-black no-underline p-4">
             <img
                 class="book-thumbnail m-4"
-                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714172313l/242472._SX98_.jpg"
                 loading="lazy"
             />
             <div class="book-details w-full">
