@@ -1,4 +1,3 @@
-
 ---
 title: "Books"
 date: 2022-12-23T00:00:00-07:00
@@ -12,6 +11,84 @@ draft: false
 See what I have been reading.
 </br></br>
 
+<div>
+<a
+    href="https://www.goodreads.com/book/show/94318.Awareness"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440859557l/94318._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >August 03, 2024</span
+                >
+                Awareness: The Perils and Opportunities of Reality - Anthony de Mello
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/41014339-endure"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533053130l/41014339._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >August 03, 2024</span
+                >
+                Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance - Alex  Hutchinson
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/17780.In_the_Heart_of_the_Sea"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335902168l/17780._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >July 31, 2024</span
+                >
+                In the Heart of the Sea: The Tragedy of the Whaleship Essex - Nathaniel Philbrick
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
 <div>
 <a
     href="https://www.goodreads.com/book/show/124941268-same-as-ever"
@@ -411,7 +488,7 @@ See what I have been reading.
         <div class="flex flex-row justify-start content-start text-black no-underline p-4">
             <img
                 class="book-thumbnail m-4"
-                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722528916l/51187948._SX98_.jpg"
                 loading="lazy"
             />
             <div class="book-details w-full">
@@ -498,7 +575,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >January 25, 2024</span
                 >
-                Die with Zero: Getting All You Can from Your Money and Your Life - Bill Perkins
+                Die with Zero: Getting All You Can from Your Money and Your Life - Bill  Perkins
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1122,7 +1199,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >March 18, 2023</span
                 >
-                $100M Offers: How To Make Offers So Good People Feel Stupid Saying No (Acquisition.com $100M Series Book 1) - Alex Hormozi
+                $100M Offers: How To Make Offers So Good People Feel Stupid Saying No - Alex Hormozi
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1200,7 +1277,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >February 18, 2023</span
                 >
-                Sam Walton: Made In America - John Huey Sam Walton
+                Sam Walton: Made In America - Sam Walton
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1347,7 +1424,7 @@ See what I have been reading.
         <div class="flex flex-row justify-start content-start text-black no-underline p-4">
             <img
                 class="book-thumbnail m-4"
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463591845l/82120._SX98_.jpg"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1722830129l/82120._SX98_.jpg"
                 loading="lazy"
             />
             <div class="book-details w-full">
@@ -1668,7 +1745,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >May 12, 2022</span
                 >
-                On Writing: A Memoir of the Craft - Stephen King
+                On Writing: A Memoir of the Craft - Stephen         King
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -2058,7 +2135,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >November 12, 2021</span
                 >
-                The Stand - Stephen King
+                The Stand - Stephen         King
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -2162,7 +2239,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >September 21, 2021</span
                 >
-                How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence - Michael Pollan
+                How to Change Your Mind: The New Science of Psychedelics - Michael Pollan
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Chapter 5 worth a re-read.</p></span>
@@ -3462,7 +3539,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >February 01, 2020</span
                 >
-                Talking to Strangers: What We Should Know About the People We Don’t Know - Malcolm Gladwell
+                Talking to Strangers: What We Should Know About the People We Don't Know - Malcolm Gladwell
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -4356,7 +4433,7 @@ See what I have been reading.
 </a></div>
 <div>
 <a
-    href="https://www.goodreads.com/book/show/22304778-the-davinci-code"
+    href="https://www.goodreads.com/book/show/22304778-the-da-vinci-code"
     target="blank"
     class="text-black no-underline">
     <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
@@ -4372,7 +4449,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 ></span
                 >
-                The DaVinci Code - Dan       Brown
+                The da Vinci Code - Dan       Brown
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
