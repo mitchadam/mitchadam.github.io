@@ -13,6 +13,708 @@ See what I have been reading.
 
 <div>
 <a
+    href="https://www.goodreads.com/book/show/10874803-iron-war"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344716079l/10874803._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >September 12, 2025</span
+                >
+                Iron War: Dave Scott, Mark Allen, and the Greatest Race Ever Run - Matt Fitzgerald
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Love the content but too long and didn’t need the science</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/15751404-david-and-goliath"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391813567l/15751404._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >September 12, 2025</span
+                >
+                David and Goliath: Underdogs, Misfits, and the Art of Battling Giants - Malcolm Gladwell
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Honestly Gladwell not for me</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/40230101-the-mamba-mentality"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527633702l/40230101._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >September 12, 2025</span
+                >
+                The Mamba Mentality: How I Play - Kobe Bryant
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/18007564-the-martian"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >August 17, 2025</span
+                >
+                The Martian - Andy Weir
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Fun read, would recommend the audio book. I still prefer project hail mary</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/18869177-lying"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >August 03, 2025</span
+                >
+                Lying - Sam Harris
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Well written and I appreciate the brevity</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/31868165-captivate"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489777793l/31868165._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >August 03, 2025</span
+                >
+                Captivate: The Science of Succeeding with People - Vanessa Van Edwards
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/56222237-tunnel-29"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608632059l/56222237._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >July 20, 2025</span
+                >
+                Tunnel 29: The True Story of an Extraordinary Escape Beneath the Berlin Wall - Helena Merriman
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Everything I love in a book — true story, history, human struggle and triumph, easy to read and well written <br /><br />One of my new favorite books</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/22545857-the-worm-at-the-core"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1419181981l/22545857._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >June 19, 2025</span
+                >
+                The Worm at the Core: On the Role of Death in Life - Sheldon Solomon
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">More anthropological than I wanted (looking for philosophical) but some interesting points. 3.5</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/58395055-dead-in-the-water"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1624823814l/58395055._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >May 14, 2025</span
+                >
+                Dead in the Water: A True Story of Hijacking, Murder, and a Global Maritime Conspiracy - Matthew  Campbell
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Very well told. Writing wise I would give it a 4.5 <br /><br />Story wise it started hot but kind of fell off a bit in terms of interest level. I guess that’s the thing with true stories</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/45444045-the-art-of-resilience"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601305715l/45444045._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >May 04, 2025</span
+                >
+                The Art of Resilience - Ross Edgley
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Easy read, a little light in some sections but I enjoyed the mixing in of his swim story with lessons <br /><br />Sounds terrible</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/11797471-the-idea-factory"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338504885l/11797471._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >May 01, 2025</span
+                >
+                The Idea Factory: Bell Labs and the Great Age of American Innovation - Jon Gertner
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Good history of bell labs. Didn’t enjoy it quite as much as Chip War but I would say it should be included the the “Tech History Reading List”</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/52382796-sh-gun"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704385704l/52382796._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >April 22, 2025</span
+                >
+                Shōgun (Asian Saga, #1) - James Clavell
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 2/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">I really enjoyed Tai-pan but this was just not for me at all <br /><br />I feel like nothing really happened, too many things going on, and just dragged on, especially for a 1000 page book. Probably one I should’ve stopped</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/22451908-the-revolt-of-the-public-and-the-crisis-of-authority"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719155965l/22451908._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >April 22, 2025</span
+                >
+                The Revolt of the Public and the Crisis of Authority - Martin Gurri
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Wasn’t sure what to expect but I enjoyed it more than I expected. <br /><br />Interesting breakdown of current political systems and how technology has impacted it. <br /><br />I think the proposed solution was a little weak, but I don’t think that was the primary focus of the book. <br /><br /></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/13528287-the-second-world-war"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338581873l/13528287._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >April 15, 2025</span
+                >
+                The Second World War - Antony Beevor
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Great one volume overview of WW2. Well structured and a good level of detail. Enough to give good insight but not too much to impede the flow. Would highly recommend. <br /><br />Illuminating how horrific the war was</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/18668059-the-obstacle-is-the-way"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391440316l/18668059._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >April 01, 2025</span
+                >
+                The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph - Ryan Holiday
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/55360284-taste"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1626644825l/55360284._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >March 30, 2025</span
+                >
+                Taste: My Life Through Food - Stanley Tucci
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Five stars because it gives me bourdain vibes. Also some poetic and cheeky language, which I appreciate</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/11878168-anything-you-want"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608491606l/11878168._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >March 21, 2025</span
+                >
+                Anything You Want - Derek Sivers
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/58188742-how-to-live"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622315303l/58188742._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >March 13, 2025</span
+                >
+                How to Live: 27 conflicting answers and one weird conclusion - Derek Sivers
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/1111.The_Power_Broker"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403194611l/1111._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >March 02, 2025</span
+                >
+                The Power Broker: Robert Moses and the Fall of New York - Robert A. Caro
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">3.5<br /><br />Very well researched but this makes it quite dense. More dense than the average reader would probably prefer <br /><br /></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/203578835-how-to-think-like-socrates"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706028392l/203578835._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >March 02, 2025</span
+                >
+                How to Think Like Socrates: Ancient Philosophy as a Way of Life in the Modern World - Donald J. Robertson
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Very readable</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/30753738-the-choice"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501539010l/30753738._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >February 19, 2025</span
+                >
+                The Choice: Embrace the Possible - Edith Eger
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">Didn’t enjoy the stories about other people as much but overall 5</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/101438.Skunk_Works"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344267416l/101438._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >January 05, 2025</span
+                >
+                Skunk Works: A Personal Memoir of My Years at Lockheed - Ben R. Rich
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/18966806-morning-star"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354277l/18966806._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >December 07, 2024</span
+                >
+                Morning Star (Red Rising Saga, #3) - Pierce Brown
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/34272565-life-3-0"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499718864l/34272565._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >December 03, 2024</span
+                >
+                Life 3.0: Being Human in the Age of Artificial Intelligence - Max Tegmark
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/62586003-ultra-processed-people"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679715862l/62586003._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >October 18, 2024</span
+                >
+                Ultra-Processed People: The Science Behind Food That Isn't Food - Chris van Tulleken
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">3.5</p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/18966819-golden-son"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394684475l/18966819._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >September 25, 2024</span
+                >
+                Golden Son (Red Rising Saga, #2) - Pierce Brown
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
+    href="https://www.goodreads.com/book/show/15839976-red-rising"
+    target="blank"
+    class="text-black no-underline">
+    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
+        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
+            <img
+                class="book-thumbnail m-4"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354651l/15839976._SX98_.jpg"
+                loading="lazy"
+            />
+            <div class="book-details w-full">
+                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
+                <span
+                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
+                >September 05, 2024</span
+                >
+                Red Rising (Red Rising Saga, #1) - Pierce Brown
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
+                </h3>
+                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
+            </div>
+        </div>
+    </div>
+</a></div>
+<div>
+<a
     href="https://www.goodreads.com/book/show/94318.Awareness"
     target="blank"
     class="text-black no-underline">
@@ -367,7 +1069,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >March 17, 2024</span
                 >
-                The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession - Michael Finkel
+                The Art Thief - Michael Finkel
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1216,7 +1918,7 @@ See what I have been reading.
         <div class="flex flex-row justify-start content-start text-black no-underline p-4">
             <img
                 class="book-thumbnail m-4"
-                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666611105l/63079845._SX98_.jpg"
                 loading="lazy"
             />
             <div class="book-details w-full">
@@ -1251,7 +1953,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >February 20, 2023</span
                 >
-                The Pragmatic Programmer: From Journeyman to Master - Andy Hunt
+                The Pragmatic Programmer: From Journeyman to Master - Andy   Hunt
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1589,7 +2291,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >September 25, 2022</span
                 >
-                The Courage to Be Disliked: How to Free Yourself, Change your Life and Achieve Real Happiness - Ichiro Kishimi
+                The Courage to Be Disliked: A single book can change your life - Ichiro Kishimi
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1745,7 +2447,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >May 12, 2022</span
                 >
-                On Writing: A Memoir of the Craft - Stephen         King
+                On Writing: A Memoir of the Craft - Stephen        King
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -1788,7 +2490,7 @@ See what I have been reading.
         <div class="flex flex-row justify-start content-start text-black no-underline p-4">
             <img
                 class="book-thumbnail m-4"
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590930002l/49552._SX98_.jpg"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738704267l/49552._SX98_.jpg"
                 loading="lazy"
             />
             <div class="book-details w-full">
@@ -2135,7 +2837,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >November 12, 2021</span
                 >
-                The Stand - Stephen         King
+                The Stand - Stephen        King
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -2421,7 +3123,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >April 24, 2021</span
                 >
-                Fear and Loathing in Las Vegas - Hunter S. Thompson
+                Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream - Hunter S. Thompson
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -2802,7 +3504,7 @@ See what I have been reading.
         <div class="flex flex-row justify-start content-start text-black no-underline p-4">
             <img
                 class="book-thumbnail m-4"
-                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547979103l/43621841._SX98_.jpg"
                 loading="lazy"
             />
             <div class="book-details w-full">
@@ -3322,7 +4024,7 @@ See what I have been reading.
         <div class="flex flex-row justify-start content-start text-black no-underline p-4">
             <img
                 class="book-thumbnail m-4"
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611834134l/7126._SX98_.jpg"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724863997l/7126._SX98_.jpg"
                 loading="lazy"
             />
             <div class="book-details w-full">
@@ -3332,7 +4034,7 @@ See what I have been reading.
                 >April 13, 2020</span
                 >
                 The Count of Monte Cristo - Alexandre Dumas
-                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
+                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
             </div>
@@ -3478,7 +4180,7 @@ See what I have been reading.
         <div class="flex flex-row justify-start content-start text-black no-underline p-4">
             <img
                 class="book-thumbnail m-4"
-                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757619021l/69571._SY160_.jpg"
                 loading="lazy"
             />
             <div class="book-details w-full">
@@ -3513,7 +4215,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >February 01, 2020</span
                 >
-                Dune Messiah (Dune, #2) - Frank Herbert
+                Dune Messiah (Dune #2) - Frank Herbert
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">This is my Dune Review.</p></span>
@@ -3617,7 +4319,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >September 01, 2019</span
                 >
-                Man’s Search for Meaning - Viktor E. Frankl
+                Man's Search for Meaning - Viktor E. Frankl
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">This has been my favourite book of the year thus far! A truly impactful read. The brutality described by Viktor Frankl during his time in the concentration camps is incomprehensible. However, I feel this opens the reader up to truly appreciate Frankl's message and his belief in a meaning based life. I folded the corner of nearly every page over as there was always a thought or idea I wanted to come back to and reflect on. This is a book I would recommend should be on the top of everyone's must read.<br /><br />Favourite Quote: “Ultimately, man should not ask what the meaning of his life is, but rather must recognize that it is he who is asked. In a word, each man is questioned by life; and he can only answer to life by answering for his own life; to life he can only respond by being responsible.”</p></span>
@@ -3712,7 +4414,7 @@ See what I have been reading.
         <div class="flex flex-row justify-start content-start text-black no-underline p-4">
             <img
                 class="book-thumbnail m-4"
-                src="https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1748892272l/66354._SX98_.jpg"
                 loading="lazy"
             />
             <div class="book-details w-full">
@@ -3799,7 +4501,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >March 01, 2019</span
                 >
-                Dune (Dune, #1) - Frank Herbert
+                Dune (Dune #1) - Frank Herbert
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 5/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">A fantastic read! This book reminded me the enjoyment a good fiction novel brings. I found this book was a very fast paced. While well written, the author did not dwell on the minutiae of unimportant details and instead continued to move the story along, always peaking the readers interest. I will definitely be reading the other Dune novels.</p></span>
@@ -3929,7 +4631,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >February 01, 2019</span
                 >
-                MONEY Master the Game: 7 Simple Steps to Financial Freedom (Tony Robbins Financial Freedom Series) - Tony Robbins
+                MONEY Master the Game: 7 Simple Steps to Financial Freedom (Tony Robbins Financial Freedom Series) - Anthony Robbins
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2">After reading ‘Unshakeable’ I decided to read Tony Robbins extensive financial guide. This much longer (~600 pages) book goes into detail about many of the principles discussed in ‘Unshakeable’. I felt that this was a valuable read for someone such as myself just starting their financial journey. It provided a good starting point on many of the key steps for developing financial success. The path to financial success is not a get rich quick scheme, but instead a lifetime of smart financial decisions However, I did have a few contentions with the book. First I felt that the book was much too long and many parts could be skimmed over. Additionally, unrealistic numbers were often used, glorifying the amount of money people could make following these strategies (not that they are poor strategies but the numbers get peoples hopes up). And while I was able to take away many of the key overarching principles, one cannot obviously not expect to come away as an expert, or anything close to one.<br /><br />Favourite Quote: “Remember: we’re drowning in information, but we’re starving for wisdom.”</p></span>
@@ -4033,7 +4735,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >January 01, 2019</span
                 >
-                The Bullet Journal Method: Track the Past, Order the Present, Design the Future - Ryder Carroll
+                The Bullet Journal Method: Track Your Past, Order Your Present, Plan Your Future - Ryder Carroll
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -4303,7 +5005,7 @@ See what I have been reading.
 </a></div>
 <div>
 <a
-    href="https://www.goodreads.com/book/show/5907.The_Hobbit"
+    href="https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again"
     target="blank"
     class="text-black no-underline">
     <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
@@ -4319,7 +5021,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 >January 02, 2017</span
                 >
-                The Hobbit (The Lord of the Rings, #0) - J.R.R. Tolkien
+                The Hobbit, or There and Back Again - J.R.R. Tolkien
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -4381,7 +5083,7 @@ See what I have been reading.
 </a></div>
 <div>
 <a
-    href="https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People"
+    href="https://www.goodreads.com/book/show/4865.How_to_Win_Friends_Influence_People"
     target="blank"
     class="text-black no-underline">
     <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
@@ -4397,7 +5099,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 ></span
                 >
-                How to Win Friends and Influence People - Dale Carnegie
+                How to Win Friends & Influence People - Dale Carnegie
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -4449,7 +5151,7 @@ See what I have been reading.
                 class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
                 ></span
                 >
-                The da Vinci Code - Dan       Brown
+                The da Vinci Code - Dan    Brown
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
@@ -4503,84 +5205,6 @@ See what I have been reading.
                 >
                 To Kill a Mockingbird - Harper Lee
                         <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
-                </h3>
-                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
-            </div>
-        </div>
-    </div>
-</a></div>
-<div>
-<a
-    href="https://www.goodreads.com/book/show/9969571-ready-player-one"
-    target="blank"
-    class="text-black no-underline">
-    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
-        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
-            <img
-                class="book-thumbnail m-4"
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947l/9969571._SX98_.jpg"
-                loading="lazy"
-            />
-            <div class="book-details w-full">
-                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
-                <span
-                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
-                ></span
-                >
-                Ready Player One (Ready Player One, #1) - Ernest Cline
-                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 4/5</div>
-                </h3>
-                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
-            </div>
-        </div>
-    </div>
-</a></div>
-<div>
-<a
-    href="https://www.goodreads.com/book/show/24583.The_Adventures_of_Tom_Sawyer"
-    target="blank"
-    class="text-black no-underline">
-    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
-        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
-            <img
-                class="book-thumbnail m-4"
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404811979l/24583._SX98_.jpg"
-                loading="lazy"
-            />
-            <div class="book-details w-full">
-                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
-                <span
-                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
-                ></span
-                >
-                The Adventures of Tom Sawyer - Mark Twain
-                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: </div>
-                </h3>
-                <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
-            </div>
-        </div>
-    </div>
-</a></div>
-<div>
-<a
-    href="https://www.goodreads.com/book/show/25666050-algorithms-to-live-by"
-    target="blank"
-    class="text-black no-underline">
-    <div class="book-container rounded-lg p-0.5 shadow-lg transition hover:shadow-sm mb-5">
-        <div class="flex flex-row justify-start content-start text-black no-underline p-4">
-            <img
-                class="book-thumbnail m-4"
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454296875l/25666050._SX98_.jpg"
-                loading="lazy"
-            />
-            <div class="book-details w-full">
-                <h3 class="mt-0.5 text-2xl font-medium text-gray-900 mt-2">
-                <span
-                class="hidden sm:inline text-base text-gray-600 float-right m-4 mt-1 ml-2"
-                ></span
-                >
-                Algorithms to Live By: The Computer Science of Human Decisions - Brian Christian
-                        <div class="text-sm font-light text-gray-800 pb-3">My Rating: 3/5</div>
                 </h3>
                 <span class="book-review text-sm font-light text-gray-800"><p class="mt-2"></p></span>
             </div>

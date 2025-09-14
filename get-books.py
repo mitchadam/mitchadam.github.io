@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 import xmltodict
 from datetime import datetime
 
-header_text = '''
+header_text = """
 ---
 title: "Books"
 date: 2022-12-23T00:00:00-07:00
@@ -17,28 +17,40 @@ draft: false
 
 See what I have been reading.
 </br></br>
-'''
+"""
 output_path = "./content/books/_index.md"
 
+# First run this in terminal
+"""
+curl --location 'https://www.goodreads.com/review/list?v=2&key=5EKW9AzpdwfOPldHu7Q&id=108920089&shelf=read&per_page=200&sort=date_read' \
+--header 'Cookie: ccsid=613-0290512-1630872; locale=en' > goodreads.txt
+"""
+file_path = "/Users/mitchell/Documents/Code/mitch-www/goodreads.txt"
+
+
 def main():
-    load_dotenv()
-    api_key = os.getenv('GOODREADS_KEY')
-    goodreads_id = os.getenv("GOODREADS_ID")
+    # load_dotenv()
+    # api_key = os.getenv('GOODREADS_KEY')
+    # goodreads_id = os.getenv("GOODREADS_ID")
 
-    url = "https://www.goodreads.com/review/list"
-    params = {"v":  2, "key": api_key, "id": goodreads_id, "shelf": "read", "per_page": 200, "sort": "date_read" }
-    headers = {}
+    # url = "https://www.goodreads.com/review/list"
+    # params = {"v":  2, "key": api_key, "id": goodreads_id, "shelf": "read", "per_page": 200, "sort": "date_read" }
+    # headers = {}
 
-    response = requests.get(url, params=params, headers=headers)
-    data = xmltodict.parse(response.text)
+    # response = requests.get(url, params=params, headers=headers)
+    # data = xmltodict.parse(response.text)
+    with open(file_path, "r") as file:
+        xml_content = file.read()
+    data = xmltodict.parse(xml_content)
+
     books = data["GoodreadsResponse"]["reviews"]["review"]
 
     with open(output_path, "w") as file:
-        file.truncate() # Wipe file
+        file.truncate()  # Wipe file
         file.write(header_text)
 
         for book in books:
-            html = f'''
+            html = f"""
 <div>
 <a
     href="{book["book"]["link"]}"
@@ -64,7 +76,7 @@ def main():
             </div>
         </div>
     </div>
-</a></div>'''
+</a></div>"""
             file.write(html)
 
 

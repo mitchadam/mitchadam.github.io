@@ -9,4 +9,4 @@ draft: false
 ---
 
 This is more of a personal exercise but perhaps some posts will be mildly interesting.
-To start I recommend [Going Viral](/blog/2022/going-viral/), [The Mathematics of Art](/blog/2022/the-mathematics-of-art/) or [University Reflections](/blog/2022/university-reflections/).
+To start I recommend [The Mathematics of Art](/blog/2022/the-mathematics-of-art/), [University Reflections](/blog/2022/university-reflections/) or [Ironman California Race Report](/blog/2023/ironman-california-race-report/), .

@@ -24,7 +24,7 @@ However, the training is also where the growth comes from, both physically and p
 
 The entire process comes to a peak on race day. It is a day you have earned the right to enjoy and show off the hard work you have put in. It is the day you get to hear the words “You are an Ironman”.
 
-![Picture crossing finish line.](/ironman/finishbrighter.jpg)
+![Picture crossing finish line.](/ironman/finish.jpg)
 
 <div class="centered">
     Crossing the finish line. Official time: 9:39:11
