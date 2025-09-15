@@ -124,3 +124,6 @@ In the future when I think back to this race, the two themes that stick out will
     - 1 caf gel
   - 2x 25g gels + 1 cup of coke on run
     - 1 caf, 1 not caf
+
+<br>
+Photos: Jack Blodgett
