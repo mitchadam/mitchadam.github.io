@@ -20,7 +20,7 @@ Life outside of training isn’t always so clear. The connection between effort 
 
 That’s the why that gets me out of bed in the morning. Because one day, it will all be over, and I want to know I gave everything I had. That I emptied the tank. That’s why I decided the pain and suffering of 100 miles was worth it.
 
-With the elephant addressed and the most important question answered, here’s my (even lengthier than the last) report of the 167,000 steps taken and 14,000 calories burned during the 2024 Oregon Cascades 100 Miler.
+With the elephant addressed and the most important question answered, here’s my (even lengthier than the last -- you've been warned) report of the 167,000 steps taken and 14,000 calories burned during the 2024 Oregon Cascades 100 Miler.
 
 ![Running picture.](/oregon-cascades-100/og-vista-min.jpg)
 

@@ -32,11 +32,11 @@ I felt I rode well within myself on the way out. I hit the turnaround just befor
 
 On the way back I averaged closer to 260 watts, bringing my overall average to 256. The return felt less comfortable than the way out, but I still wasn't in the red zone. No one passed me on the entire bike.
 
-I could see I'd be very close to sub 2:20. I rode strong right to the end, almost missing the dismount line and skidding to a stop just before it. My bike computer showed sub 2:20 since I started it a couple seconds late, but my chip time was 2:20:19 — I'll take it. Maybe I pushed it a little bit too hard at at the end here, but in the moment it felt fine.
+I could see I'd be very close to sub 2:20. I rode strong right to the end, almost missing the dismount line and skidding to a stop just before it. My bike computer showed sub 2:20 since I started it a couple seconds late, but my chip time was 2:20:19 — I'll take it. Maybe I pushed it a little bit too hard at the end, but in the moment it felt fine.
 
 I've been happy with my bike volume and the legs have been feeling strong. I'm pleased with this bike performance — it's a good data point that my fitness is improving and I can push to get even stronger. The bike is the most important leg, so this is encouraging.
 
-I averaged ~90 grams of carbs per hour, which was my target. I lost some drink mix filling my torpedo bottle, but had a backup gel to compensate. I've always used just liquid carbs, but I may experiment with adding gels next time. My stomach wasn't great after the bike (though it was fine during), and I'm wondering if I needed more plain water, less volume, or something just some variety.
+I averaged ~90 grams of carbs per hour, which was my target. I lost some drink mix filling my torpedo bottle, but had a backup gel to compensate. I've always used just liquid carbs, but I may experiment with adding gels next time. My stomach wasn't great after the bike (though it was fine during), and I'm wondering if I needed more plain water, less volume, or just some variety.
 
 ![Bike picture.](/santa-cruz/sc-bike-min.JPEG)
 
@@ -50,7 +50,7 @@ I averaged ~90 grams of carbs per hour, which was my target. I lost some drink m
 
 I had the highest expectations for the run. A few solid brick runs off the bike had given me confidence in my run fitness.
 
-Immediately starting the run, I knew it would be a battle — I felt terrible. Honestly more terrible than I've ever felt on a run. It was like having the flu where your whole body aches. My stomach felt off and I had no push.
+Immediately starting the run, I knew it would be a battle — I felt terrible. Honestly more terrible than I've ever felt on a run. It was like having the flu where your whole body aches. My stomach felt off and my legs just had absolutely no push.
 
 I went through a few miles of pity party, mentally writing off the race. Knowing I couldn't push like I wanted really sapped my motivation. What was the point? But I knew I needed to finish this thing one way or another, so I kept going and focused on trying not to walk (though I had a few walks).
 
@@ -58,16 +58,16 @@ My stomach had been feeling weird the whole time with some suspicious burps. Onc
 
 Shortly after, I started feeling much better and my legs remembered how to work. During the trail section about halfway through, I began picking up the pace but stayed conservative to test the waters
 
-Once we got back onto the pavement, I felt infinitely better than when I'd started and began to actually run. In the final few miles I was able to run like I'd hoped to all along. The first half I was only getting passed — now I was doing the passing.
+Once we got back onto the pavement, I felt infinitely better than when I'd started and began to actually run. In the final few miles I was able to start running properly. The first half I was only getting passed — now I was doing the passing.
 
 ![Strava chart.](/santa-cruz/sc-strava-min.jpg)
 
 <div class="centered">
-Starting at mile 6, I ran every mile faster than the last. I'm calling this the "reverse blow up."</div>
+Starting at mile 6, I ran every mile faster than the last, the "reverse blow up."</div>
 
 <br>
 
-It felt good to finish strong. I think this shows I do have the fitness — I just need to harness it better. Even though my run time wasn't quite what I wanted, I was able to salvage things a bit and hold on for a decent finish time.
+It felt good to finish strong. I think this shows I do have the fitness — I just need to harness it better. Even though my run time wasn't quite what I wanted, I was able to salvage things and hold on for a decent finish time.
 
 ![Running picture.](/santa-cruz/sc-run-min.jpg)
 
@@ -99,7 +99,7 @@ Huge shout out to everyone who drops me, eats croissants with me and engages in 
 
 ### Closing Thoughts
 
-Out of all the races I've done, this one and the build into it felt the most fun and relaxed. In the past, these endurance events were really about the challenge — me vs. the race, overcoming mental and physical obstacles to see what I was capable of. Considering I started with an Ironman and a 100-miler, this is understandable.
+Out of all the races I've done, this one and the build into it felt the most fun and relaxed. In the past, these endurance events were really about the challenge — me vs. the race, overcoming mental and physical obstacles to see what I was capable of.
 
 As I've done more races and gotten deeper into endurance activities, it's become less about this intense internal struggle to overcome seemingly monumental obstacles. I've really just fallen in love with the act of doing these things. I love training. I love riding my bike for seven hours with friends on Saturday or running in circles until it hurts at track night.
 
@@ -107,7 +107,7 @@ It feels good working towards a goal and feeling like you're getting just a litt
 
 It also feels really good being surrounded by people who share this mindset. Being around people passionate about something and excited to share that passion with you. I've been feeling a strong sense of community lately around running/cycling/swimming. Moving to SF not knowing anyone (as was the case for many of us), it's nice having this thing we can connect over. This was evident not only in how many people raced Santa Cruz, but also in how many came down to support.
 
-In the future when I think back to this race, the two themes that stick out will be enjoyment and community.
+In the future when I think back to this race, the two themes that stick out will be enjoying the process and community.
 
 ![Running picture](/santa-cruz/sc-run2-min.jpg)
 
