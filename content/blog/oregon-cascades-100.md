@@ -230,9 +230,9 @@ Once I stopped running, my legs quickly went from "wow, I can't believe how good
 
 ![Finish picture.](/oregon-cascades-100/og-finish-min.jpg)
 
-<!-- <div class="centered">
-    Locked in on the bike
-</div> -->
+<div class="centered">
+    Finish time: 18:02:39, 6th place overall, average pace: 6:51/km 11:03/mi
+</div>
 
 <br>
 
