@@ -44,9 +44,7 @@ The key to my training plan — and really the main difference from a standard m
 
 On Saturdays, after my long run, I’d also try to walk as much as possible to add more time on feet — a common training metric in the ultra community where, essentially, more is better. My Saturday ritual became: run to the run club meeting point, do the run club run, then walk the 5km home. That walk was an easy way to rack up more steps, plus I’d usually grab a coffee and snack and stop by the gym for a sauna and cold plunge. I loved those Saturday mornings.
 
-My peak weekend was a 42km run plus 22km of walking on Saturday, followed by a 60km run with X amount of elevation on Sunday — a 100-mile week in total. I felt surprisingly decent by Sunday night, which gave me a big confidence boost that I could handle long time-on-feet efforts. The 60km run was also a new distance PR for me, and the longest I’d run before the race.
-
-<TODO> Strava screenshot
+My peak weekend was a 42km run plus 22km of walking on Saturday, followed by a 60km run on Sunday — a 100-mile week in total. I felt surprisingly decent by Sunday night, which gave me a big confidence boost that I could handle long time-on-feet efforts. The 60km run was also a new distance PR for me, and the longest I’d run before the race.
 
 **Strength**
 
