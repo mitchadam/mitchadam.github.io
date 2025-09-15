@@ -1,6 +1,6 @@
 ---
 title: "🌋 Oregon Cascades 100 miler 2024 Race Report"
-date: 2025-08-24
+date: 2024-08-24
 draft: false
 ---
 
