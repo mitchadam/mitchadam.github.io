@@ -6,9 +6,7 @@ draft: false
 
 ---
 
-# Santa Cruz Race Report
-
-**Pre-Race**
+### Pre-Race
 
 I came into Santa Cruz 70.3 with few expectations. It was my first 70.3 and my first triathlon in nearly two years, so it almost felt like doing it again for the first time. My goal was simple: get a data point on my fitness and set a baseline for the next couple years in my “triathlon-era”.
 
@@ -16,13 +14,13 @@ Training had been consistent since coming back from injury, with all-time highs 
 
 Nerves aside, I was excited. Santa Cruz brings out a huge SF crowd, and the energy of friends racing and cheering made it the perfect place to throw down and let the dog out!
 
-**Swim**
+### Swim
 
 I was really really hoping to be be sub 35 minutes on the swim, realistically aiming for 33–35. I find open water pacing is tough to judge, so my plan was simply to swim “kinda hard.” On the way out I passed quite a few people, which felt good, but on the way back my shoulders fatigued (really need a new wetsuit) and I slowed some.
 
 It felt good to get out of the water and enter the domain (land) I feel most confident in. I felt like I had swum decent, but not great, struggling to find my rhythm at points. I didn’t wear my watch during the swim because I didn’t want to know my time. When I found out that I swam a 32 I honestly couldn’t believe it. This was a big confidence booster that the work in the pool is paying off.
 
-**Bike**
+### Bike
 
 This was my first time racing with all the expensive, fast cycling gear — TT bike, aero helmet, aero clothes. I told myself I wanted to go sub 2:30 but knew I could probably do much faster. I was excited to see what I could do.
 
@@ -48,7 +46,7 @@ I averaged ~90 grams of carbs per hour, which was my target. I lost some drink m
 
 <br>
 
-**Run**
+### Run
 
 I had the highest expectations for the run. A few solid brick runs off the bike had given me confidence in my run fitness.
 
@@ -79,7 +77,7 @@ It felt good to finish strong. I think this shows I do have the fitness — I ju
 
 <br>
 
-**Overall**
+### Overall
 
 Overall I'm happy with the race. I'm really pleased with the swim and bike — if I can just hold it together on the run, I'll be in a good spot. I would have liked to go sub 4:30, but Ill take it for a first 70.3.
 
@@ -99,7 +97,7 @@ Huge shout out to everyone who drops me, eats croissants with me and engages in 
 
 <br>
 
-**Closing Thoughts**
+### Closing Thoughts
 
 Out of all the races I've done, this one and the build into it felt the most fun and relaxed. In the past, these endurance events were really about the challenge — me vs. the race, overcoming mental and physical obstacles to see what I was capable of. Considering I started with an Ironman and a 100-miler, this is understandable.
 
@@ -113,7 +111,7 @@ In the future when I think back to this race, the two themes that stick out will
 
 ![Running picture](/santa-cruz/sc-run2-min.jpg)
 
-**The numbers**
+### The numbers
 
 - Overall time: 4:35:18
   - Swim: 32:07
